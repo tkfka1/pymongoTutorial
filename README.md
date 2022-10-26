@@ -6,3 +6,5 @@
 * 파이썬
 * 플라스크 `pip install flask`
 * 파이몽고 `pip install pymongo`
+
+https://gksyr.tistory.com/78
